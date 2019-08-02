@@ -1,6 +1,6 @@
 import React from 'react';
 import UserList from "../containers/userList";
-import UserDetails from "../containers/user-details";
+import UserDetail from "../containers/user-detail";
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <UserList />
       <hr />
       <h2>User Details </h2>
-      <UserDetails />
+      <UserDetail />
     </div >
   );
 }

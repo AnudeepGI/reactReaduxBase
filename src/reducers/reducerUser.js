@@ -11,14 +11,14 @@ export default function () {
             id: 2,
             first: "Bucky3",
             last: "noberts3",
-            age: 31,
+            age: 32,
             description: "a spoken or written account of a person, object, or event.2"
         },
         {
             id: 3,
             first: "Bucky3",
             last: "noberts3",
-            age: 31,
+            age: 33,
             description: "a spoken or written account of a person, object, or event.3"
         }
     ]
